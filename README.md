@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there 👋 my name is M. Zidane Attahillah Al Ikhsan. I,m currently studying Petroleum Engineering at Bandung Institute of Technology. Funfact: I like cats, every tipe of cats. I have so much dream that i want to achieve. I want to have 2-3 supercars, collection of shoes, travel all around the world, and mostly i want to make my family proud of me. 
 
 <!--
-**ZidaneIkhsan/ZidaneIkhsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ZidaneIkhsan/ZidaneIkhsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
 
